@@ -1,4 +1,4 @@
-# -Near-Real-Time-Cloud-Service-Availability-Tracking
+# Near-Real-Time-Cloud-Service-Availability-Tracking
 Implementing Scheduled Synthetic Monitoring for Near Real-Time Cloud
 Service Availability Tracking: A Case Study of Central African Building
 Society
